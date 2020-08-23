@@ -1,0 +1,7 @@
+5
+sNo;courseId;BookId;BookName;Author;totalcopies;copiesAvailable;rollno;issuedate;
+1;MAL;100;Advanced Mathematics;RD Sharma;7;4;35,56,64;24/07/2020,26/06/2020,22/08/2020;
+2;CSB;200;Database Management;Korth/Navathe;8;4;12,44,56,25;24/07/2020,26/06/2020,26/06/2020,22/08/2020;
+4;PHP;400;Concepts of Physics;HC Verma;2;1;51;22/08/2020;
+5;LIT;500;Atlas Shrugged;Ayn Rand;5;5;;;
+3;MAL;300;Advanced Mathematics;RS Agarwal;3;0;35,41,56;24/07/2020,04/07/2020,26/06/2020;
